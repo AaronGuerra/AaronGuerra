@@ -54,7 +54,12 @@ Soy-AaronGuerra@github
 <p tyle="display: inline-block;" align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode," />
+    <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=ai,ps,pr,au" />
+</p>
+    
   </a>
 </p>
 
