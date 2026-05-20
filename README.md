@@ -32,7 +32,7 @@ Soy-AaronGuerra@github
 <p tyle="display: inline-block;" align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,react,html,css" />
   </a>
 </p>
     
