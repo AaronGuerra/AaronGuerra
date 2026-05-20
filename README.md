@@ -1,7 +1,6 @@
 ![Header](./github-header-banner-aaronguerra.png)
 <h1 align="center"></h1>
  
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Disenador+Grafico+Multimedia;Desarrollador+Full+Stack+JAVA;Freelancer+Audiovisual+Editorial;Aprendiendo+Programacion;Aprendiendo+a+buen+ritmo&center=true&width=380&height=45"></a>
 </p>
@@ -60,5 +59,5 @@ Soy-AaronGuerra@github
   </a>
 </p>
 
-</div><
+</div>
 
