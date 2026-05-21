@@ -34,6 +34,10 @@
 
 <hr>
 
+
+<table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td valign="top" style="border: none;">
 <!-- SECCIÓN DE STACK TECNOLÓGICO Y HERRAMIENTAS -->
 <!-- Al estar totalmente aislada de la sección anterior por la tabla, ya no heredará estilos extraños -->
 <p align="center">
@@ -74,3 +78,6 @@
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,au" alt="Design Tools" />
   </a>
 </p>
+</td>
+</tr>
+</table>
