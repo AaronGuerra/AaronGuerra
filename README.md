@@ -1,63 +1,76 @@
-![Header](./github-header-banner-aaronguerra.png)
-<h1 align="center"></h1>
- 
+<!-- BANNER PRINCIPAL -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Disenador+Grafico+Multimedia;Desarrollador+Full+Stack+JAVA;Freelancer+Audiovisual+Editorial;Aprendiendo+Programacion;Aprendiendo+a+buen+ritmo&center=true&width=380&height=45"></a>
+  <img src="./github-header-banner-aaronguerra.png" alt="Aaron Guerra Header Banner" width="100%">
 </p>
 
-<img align="left" src="pexels-peaky-29445974.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="360" height="300" /><hr>
+<!-- TÍTULO DINÁMICO (ANIMACIÓN DE ESCRITURA) -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Diseñador+Gráfico+Multimedia;Desarrollador+Full+Stack+JAVA;Freelancer+Audiovisual+Editorial;Aprendiendo+Programación;Aprendiendo+a+buen+ritmo&center=true&width=500&height=45" alt="Roles de Aaron Guerra">
+  </a>
+</p>
 
-
-```
-Soy-AaronGuerra@github
--------------------------
-💻 Estoy estudiando en el Bootcamp de Generation sobre Desarrollo Full Stack JAVA.
-🌐 Estoy aprendiendo desarrollo web.
-📚 Tengo estudios en Diseño Gráfico Multimedia: Editorial, Gráfica y Audiovisual.
-📝 Quiero crecer como desarrollador Full Stack para complementar mis conocimientos.
-🌟 Lenguajes principales: JAVA, JavaScript.
-🎵 Me gusta el rock, power metal, heavy metal, progressive metal, blues, jazz sax, gospel, country y cuartetos vocales.
-
-
-```
 <hr>
 
-<div align="center">
+<!-- SECCIÓN INFORMATIVA PRINCIPAL (Estructura en Tabla para evitar líneas fantasma) -->
+<table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <!-- Columna Izquierda: Imagen -->
+    <td width="360" valign="top" style="border: none; padding-right: 20px;">
+      <img src="pexels-peaky-29445974.jpg" alt="Creative Profile Visual" width="340" height="280" style="border-radius: 10px;" />
+    </td>
+    <!-- Columna Derecha: Texto -->
+    <td valign="top" style="border: none; text-align: left;">
+      <h3 style="margin-top: 0;">👋 ¡Hola! Soy Aaron Guerra</h3>
+      🚀 Actualmente me estoy formando en el <b>Bootcamp de Generation</b> como desarrollador Full Stack JAVA.<br>
+      🌐 Expandiendo mis horizontes en el mundo del desarrollo web.<br>
+      📚 Técnico en <b>Diseño Gráfico Multimedia</b> con especialidad en Editorial, Gráfica y Audiovisual.<br>
+      📝 Busco fusionar el código y el diseño para crear soluciones web integrales y atractivas.<br>
+      🌟 Mis lenguajes principales: <code>Java</code> y <code>JavaScript</code>.<br>
+      🎵 Melómano apasionado: Rock, power/heavy/progressive metal, blues, jazz sax, gospel, country y cuartetos vocales.
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Mis Herramientas Favoritas<hr>
+<hr>
 
-### 👨‍💻 Lenguajes de Programación
+<!-- SECCIÓN DE STACK TECNOLÓGICO Y HERRAMIENTAS -->
+<!-- Al estar totalmente aislada de la sección anterior por la tabla, ya no heredará estilos extraños -->
+<p align="center">
+  <span style="text-decoration: none; font-size: 24px; font-weight: bold;">🛠️ Mis Herramientas Favoritas</span>
+</p>
 
-<p tyle="display: inline-block;" align="center">
+<br>
+
+<p align="center">
+  <span style="text-decoration: none; font-size: 18px; font-weight: bold;">👨‍💻 Lenguajes de Programación y Frontend</span>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs" alt="Frontend & Core Tech" />
   </a>
 </p>
-    
 
-### 🗄️ Databases y Cloud Hosting
+<br>
 
-<p tyle="display: inline-block;" align="center">
+<p align="center">
+  <span style="text-decoration: none; font-size: 18px; font-weight: bold;">🗄️ Bases de Datos</span>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Database Tech" />
   </a>
 </p>
 
-### 💻 Softwarers y Herramientas 
+<br>
 
-<p tyle="display: inline-block;" align="center">
+<p align="center">
+  <span style="text-decoration: none; font-size: 18px; font-weight: bold;">💻 Software y Flujo de Trabajo</span>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr,au" />
-</p>
-    
+    <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" alt="Development Tools" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,au" alt="Design Tools" />
   </a>
 </p>
-
-</div>
-
