@@ -47,11 +47,11 @@
 <br>
 
 <p align="center">
-  <span style="text-decoration: none; font-size: 18px; font-weight: bold;">👨‍💻 Lenguajes de Programación y Frontend</span>
+  <span style="text-decoration: none; font-size: 18px; font-weight: bold;">👨‍💻 Lenguajes de Programación, Controladores de Versiones y Base de Datos</span>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs" alt="Frontend & Core Tech" />
+    <img src="https://skillicons.dev/icons?i=java, springboot,javascript, typescript,html,css,react,nodejs" alt="Frontend & Core Tech" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres, neon" alt="Database Tech" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Database Tech" />
   </a>
 </p>
 
