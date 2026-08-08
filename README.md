@@ -22,9 +22,9 @@
     <!-- Columna Derecha: Texto -->
     <td valign="top" style="border: none; text-align: left;">
       <h3 style="margin-top: 0;">👋 ¡Hola! Soy Aaron Guerra</h3>
-      🚀 Actualmente me estoy formando en el <b>Bootcamp de Generation</b> como desarrollador Full Stack JAVA.<br>
-      🌐 Expandiendo mis horizontes en el mundo del desarrollo web.<br>
-      📚 Técnico en <b>Diseño Gráfico Multimedia</b> con especialidad en Editorial, Gráfica y Audiovisual.<br>
+      🚀 Actualmente he terminado el <b>Bootcamp de Generation Chile</b> como desarrollador Full Stack JAVA Junior.<br>
+      🌐 Expandiendo mis horizontes en el mundo del Desarrollo de Software.<br>
+      📚 Profesional en <b>Diseño Gráfico Multimedia</b> con especialidad en Editorial, Gráfica y Audiovisual.<br>
       📝 Busco fusionar el código y el diseño para crear soluciones web integrales y atractivas.<br>
       🌟 Mis lenguajes principales: <code>Java</code> y <code>JavaScript</code>.<br>
       🎵 Melómano apasionado: Rock, power/heavy/progressive metal, blues, jazz sax, gospel, country y cuartetos vocales.
@@ -62,7 +62,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="Database Tech" />
+    <img src="https://skillicons.dev/icons?i=postgres, neon" alt="Database Tech" />
   </a>
 </p>
 
