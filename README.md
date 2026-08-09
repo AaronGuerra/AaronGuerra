@@ -6,7 +6,7 @@
 <!-- TÍTULO DINÁMICO (ANIMACIÓN DE ESCRITURA) -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Dise%C3%B1ador+Gr%C3%A1fico+Multimedia;Desarrollador+Full+Stack+JAVA;Freelancer+Audiovisual+Editorial;Aprendiendo+Programaci%C3%B3n;Aprendiendo+a+buen+ritmo&center=true&width=500&height=45" alt="Roles de Aaron Guerra">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Dise%C3%B1ador+Gr%C3%A1fico+Multimedia;Desarrollador+Full+Stack+JAVA+Junior;Freelancer+Audiovisual+Editorial;Aprendiendo+Programaci%C3%B3n;Aprendiendo+a+buen+ritmo&center=true&width=500&height=45" alt="Roles de Aaron Guerra">
   </a>
 </p>
 
@@ -16,22 +16,24 @@
 <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
   <tr style="border: none; background: transparent;">
     <!-- Columna Izquierda: Imagen -->
-    <td width="360" valign="top" style="border: none; padding-right: 20px;">
-      <img width="500" height="500" alt="yo" src="https://github.com/user-attachments/assets/882e07c3-4ace-4cfe-9dec-039d0ae61fac" />
-    </td>
-    <!-- Columna Derecha: Texto -->
+  <td style="border: none;">
+    <img src="https://github.com/user-attachments/assets/8469122d-6efc-440d-9359-e273ca40a045" alt="foto Aarón 1" width="1900" height="2560" />
+  </td>
+    
+<!-- Columna Derecha: Texto -->
 <td valign="top" style="border: none; text-align: left;">
-      <p style="margin-top: 0;">
-        <img src="https://img.shields.io/badge/%F0%9F%90%8B%20%C2%A1Hola!%20Soy%20Aaron%20Guerra-181717?style=for-the-badge&logoColor=white" alt="¡Hola! Soy Aaron Guerra" />
-      </p>
-      🚀 Actualmente he terminado el <b>Bootcamp de Generation Chile</b> como desarrollador Full Stack JAVA Junior.<br>
-      🌐 Expandiendo mis horizontes en el mundo del Desarrollo de Software.<br>
-      📚 Profesional en <b>Diseño Gráfico Multimedia</b> con especialidad en Editorial, Gráfica y Audiovisual.<br>
-      📝 Busco fusionar el código y el diseño para crear soluciones web integrales y atractivas.<br>
-      🌟 Mis lenguajes principales: <code>Java</code> y <code>JavaScript</code>.<br>
-      🎵 Melómano apasionado: Rock, power/heavy/progressive metal, blues, jazz sax, gospel, country y cuartetos vocales.
-    </td>
-  </tr>
+  <p style="margin-top: 0;">
+    <img src="https://img.shields.io/badge/%F0%9F%90%8B%20%C2%A1Hola!%20Soy%20Aar%C3%B3n%20Guerra-181717?style=for-the-badge&logoColor=white" alt="¡Hola! Soy Aarón Guerra" />
+  </p>
+  🚀 <b>Desarrollador Full Stack Java Jr.</b>, formado en <b>Generation Chile</b>, en proceso de consolidar mi carrera profesional en el desarrollo de software.<br><br>
+  🔄 Mi trayectoria comenzó en el <b>Diseño Gráfico Multimedia</b>, con experiencia en proyectos editoriales, gráficos y audiovisuales. Mi reconversión hacia la programación nació de querer ir más allá de lo visual: entender y construir también la lógica que hace funcionar una aplicación.<br><br>
+  🌱 Me considero curioso, adaptable y perseverante. Ante los problemas intento mantener una actitud positiva, analizar distintas alternativas y avanzar mediante un proceso iterativo de prueba, aprendizaje y mejora.<br><br>
+  🎯 <b>Mi objetivo:</b> Seguir creciendo como desarrollador Backend, Frontend o Full Stack, aportando una perspectiva que combina creatividad, comunicación visual, pensamiento lógico y tecnología.<br><br>
+  🌟 <b>Stack principal:</b> <code>Java</code> · <code>Spring Boot</code> · <code>JavaScript</code> · <code>React</code> · <code>Node.js</code><br>
+  🗄️ <b>Bases de Datos & Git:</b> <code>PostgreSQL</code> · <code>MySQL</code> · <code>Git</code> · <code>GitHub</code><br><br>
+  🧠 <b>Habilidades:</b> Trabajo en equipo · Comunicación asertiva · Adaptabilidad · Flexibilidad laboral · Pensamiento iterativo · Autoaprendizaje constante · Resolución creativa de problemas · Empatía con el usuario · Metodología SCRUM<br><br>
+  🎵 <b>Melómano apasionado:</b> Rock, Power/Heavy/Progressive Metal, Blues, Jazz Sax, Gospel, Country y cuartetos vocales.
+</td>
 </table>
 
 <hr>
