@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="./github-header-banner-aaronguerra.png" alt="Aaron Guerra Header Banner" width="100%">
+  <img width="1456" height="720" alt="banner_def" src="https://github.com/user-attachments/assets/a9a9e4b7-81d9-4469-b791-2df194a26407" />
 </p>
 
 <!-- TÍTULO DINÁMICO (ANIMACIÓN DE ESCRITURA) -->
