@@ -123,6 +123,24 @@
   <img src="https://img.shields.io/badge/Audition-00C4CC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzAwMDAwMCIvPjx0ZXh0IHg9IjEyIiB5PSIxNi41IiBmaWxsPSIjMDBDNENDIiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkF1PC90ZXh0Pjwvc3ZnPg==&logoColor=black" alt="Adobe Audition" />    
   <img src="https://img.shields.io/badge/Canva-7D2AE7?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiMxREJGQUYiLz48cGF0aCBkPSJNMTUuNSA2LjVDMTUgNS41IDEzLjIgNSAxMSA2QzguNSA3LjIgNi41IDEwLjUgNi41IDE0LjVDNi41IDE3LjggOC41IDE5LjUgMTEuMiAxOS41QzE0LjUgMTkuNSAxNy41IDE2LjUgMTkgMTRDMTkuMiAxMy42IDE4LjYgMTMuMiAxOC4yIDE3LjZDMTYuOCAxNS42IDE0LjIgMTggMTEuNSAxOCBDOS41IDE4IDguMiAxNi44IDguMiAxNC41QzguMiAxMS4yIDEwLjEgNy44IDEyLjIgNi44QzEzLjUgNi4yIDE0LjggNi4yIDE1LjIgNy4yQzE1LjQgNy42IDE2IDcuNiAxNi4yIDcuMUMxNi4zIDYuOCAxNS44IDYuNCAxNS41IDYuNVoiIGZpbGw9IiNGRkZGRkYiLz48L3N2Zz4=&logoColor=white" alt="Canva" />
 </p>
+
+<!-- Sección de Contacto -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%92%20Contacto-181717?style=for-the-badge&logoColor=white" alt="Contacto" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarongz1992/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=https://cdn.simpleicons.org/linkedin/white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thebo1992@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:aaron1992@live.cl">
+    <img src="https://img.shields.io/badge/Outlook-3A96DD?style=for-the-badge&logo=https://cdn.simpleicons.org/microsoftoutlook/white" alt="Outlook" />
+  </a>
+</p>
+
 </td>
 </tr>
 </table>
